@@ -1,3 +1,9 @@
+h2 {color: rgb(250, 2, 2); font-weight: bold;}
+
+body {background-color: rgb(247, 243, 243);}
+
+.imgbackground {opacity: 1.0;}
+
 .jumbotron {
   padding-top: 3rem;
   padding-bottom: 3rem;
