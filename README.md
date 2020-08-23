@@ -3,6 +3,8 @@
 Bootstrap was easy to use.
 So much easier than doing CSS.
 
+For my first attempt before we did the final and comprehensive Bootstrap lecture , I used Bootstraps "Album" template to create the About Me page. After the lecture I decided to do it coding with rows, columns and cards.
+
 I created the index file first then used copy and paste so the consistent elements for each page were set up immediatley.
 
 While in class I thought the navbar had to go before <div class=container> I found that it expended across the whole page and I thought it looked better the same width as everything so i placed container before navbar.
@@ -12,6 +14,8 @@ I found the bootstrap website really easy to follow.
 I used rows, columns and cards.
 
 I did try the portfolio page using just rows, columns and "img" (no card) and it worked ok - but cards looked better so went with that.
+
+I understood that I needed to push all htmls to git hub and publish to get a URL to then put in the hyperlinks for each of the three html pages for the navbar links to work.
 
 I'm still not sure that I have the pages optimised or used the best options from Bootstrap.....but think I'll learn more as we go so have decied to submit as is.
 
