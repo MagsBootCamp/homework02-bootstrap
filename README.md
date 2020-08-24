@@ -1,6 +1,4 @@
 # homework02-bootstrap
-# homework02-bootstrap
-
 I found Bootstrap  easy to use. So much easier than doing CSS.
 
 For my first attempt before we did the final and comprehensive Bootstrap lecture , I used Bootstraps "Album" template to create the About Me page. After the lecture I decided to do it coding with rows, columns and cards.
@@ -28,4 +26,4 @@ Please note that I do not have any other social media hence there is no FB, twit
 
 I understood that I needed to push all htmls to git hub and publish to get a URL to then put in the hyperlinks for each of the three html pages for the navbar links to work.
 
-I'm still not sure that I hav
+I'm still not sure that I have the pages optimised or used the best options from Bootstrap.....but think I'll learn more as we go so have decied to submit as is. 
