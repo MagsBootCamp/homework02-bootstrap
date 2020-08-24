@@ -20,6 +20,8 @@ https://getbootstrap.com/docs/4.5/components/card/
 I did try the portfolio page using just rows, columns and "img" (no card) and it worked ok - but cards looked better so went with that.
 
 I wnet to the Linkedin website to download the official logo to incorporate that into a button to go to my Linkedin page. (https://brand.linkedin.com/downloads)
+The logo was too big and spilled outside of the button. So I recalled from the pre-work that you can size and image. I went to WK3 and looked resizing up and found the syntax. So I put a style and class for the Linkedin image to resize it to 50%and that fixed it. I think there is possibly a better way to do it?
+https://www.w3schools.com/css/tryit.asp?filename=trycss_dim_height_percent
 
 
 Please note that I do not have any other social media hence there is no FB, twitter or instagram on my page.
